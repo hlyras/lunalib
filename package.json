@@ -1,5 +1,5 @@
 {
-  "name": "jarmlib",
+  "name": "lunalib",
   "version": "1.0.0",
   "description": "back-end framework",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hlyras/jarmlib.git"
+    "url": "git+https://github.com/hlyras/lunalib.git"
   },
   "keywords": [
     "backendlib"
@@ -16,7 +16,7 @@
   "author": "Henrique Lyra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hlyras/jarmlib/issues"
+    "url": "https://github.com/hlyras/lunalib/issues"
   },
-  "homepage": "https://github.com/hlyras/jarmlib#readme"
+  "homepage": "https://github.com/hlyras/lunalib#readme"
 }
