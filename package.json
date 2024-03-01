@@ -1,25 +1,22 @@
 {
   "name": "jarmlib",
-  "version": "1.0.65",
-  "description": "JA back-end framework",
+  "version": "1.0.0",
+  "description": "back-end framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tijariomilitar/jarmlib.git"
+    "url": "git+https://github.com/hlyras/jarmlib.git"
   },
   "keywords": [
-    "ja",
-    "rio",
-    "militar",
-    "lib"
+    "backendlib"
   ],
   "author": "Henrique Lyra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tijariomilitar/jarmlib/issues"
+    "url": "https://github.com/hlyras/jarmlib/issues"
   },
-  "homepage": "https://github.com/tijariomilitar/jarmlib#readme"
+  "homepage": "https://github.com/hlyras/jarmlib#readme"
 }
